@@ -1,0 +1,25 @@
+{
+  "Team": [
+    {
+      "user_Id": "01",
+      "job_title": "Frond_End_Dev",
+      "first_Name": "Ivan",
+      "last_Name": "Petrov",
+      "email_Address": "romin.k.irani@gmail.com"
+    },
+    {
+      "user_Id": "02",
+      "job_title": "Back_End_Dev",
+      "first_Name": "Dimityr",
+      "last_Name": "Dimitrov",
+      "email_Address": "romin.k.irani@gmail.com"
+    },
+    {
+      "user_Id": "03",
+      "job_title": "QA",
+      "first_Name": "Margarita",
+      "last_Name": "Petrova",
+      "email_Address": "romin.k.irani@gmail.com"
+    }
+  ]
+}
