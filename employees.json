@@ -1,5 +1,5 @@
-{
-  "Team": [
+{"Employee_Details":  {
+  "Team1": [
     {
       "user_Id": "01",
       "job_title": "Frond_End_Dev",
@@ -21,5 +21,29 @@
       "last_Name": "Petrova",
       "email_Address": "romin.k.irani@gmail.com"
     }
+  ],
+  "Team2": [
+    {
+      "user_Id": "04",
+      "job_title": "Frond_End_Dev",
+      "first_Name": "Stoyan",
+      "last_Name": "Petrov",
+      "email_Address": "romin.k.irani@gmail.com"
+    },
+    {
+      "user_Id": "05",
+      "job_title": "Back_End_Dev",
+      "first_Name": "Yordan",
+      "last_Name": "Dimitrov",
+      "email_Address": "romin.k.irani@gmail.com"
+    },
+    {
+      "user_Id": "06",
+      "job_title": "QA",
+      "first_Name": "Petya",
+      "last_Name": "Petrova",
+      "email_Address": "romin.k.irani@gmail.com"
+    }
   ]
+}
 }
